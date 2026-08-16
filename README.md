@@ -15,7 +15,7 @@ The page displays a blog card with a category label, publication date, title, de
 ## Project structure
 
 ```text
-.
+. 
 ├── index.html
 ├── css/
 │   └── style.css
